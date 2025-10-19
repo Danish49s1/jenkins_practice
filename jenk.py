@@ -12,5 +12,7 @@ for i, t in enumerate(tasks, start=1):
 print("========================")
 print("Script ran successfully inside Jenkins!")
 print("Danish!")
+print("jenkins")
+
 
 
