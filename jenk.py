@@ -10,4 +10,5 @@ for i, t in enumerate(tasks, start=1):
     print(f"{i}. {t}")
 
 print("========================")
-print("✅ Script ran successfully inside Jenkins!")
+print("Script ran successfully inside Jenkins!")
+
