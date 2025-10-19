@@ -1,6 +1,5 @@
 # 📝 Simple To-Do List App
 # Author: Danish Saifi
-# Level: Beginner | Looks Classy 😉
 
 def show_menu():
     print("\n====== TO-DO LIST ======")
@@ -48,3 +47,4 @@ while True:
 
     else:
         print("❗ Invalid option. Please try again.")
+
