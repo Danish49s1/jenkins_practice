@@ -13,6 +13,7 @@ print("========================")
 print("Script ran successfully inside Jenkins!")
 print("Danish!")
 print("jenkins")
+print("DevOps")
 
 
 
